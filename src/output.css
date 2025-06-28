@@ -383,6 +383,26 @@
     outline-style: var(--tw-outline-style);
     outline-width: 1px;
   }
+  .hover\:bg-Bright-Yellow\/50 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: color-mix(in srgb, hsl(71, 73%, 54%) 50%, transparent);
+        @supports (color: color-mix(in lab, red, red)) {
+          background-color: color-mix(in oklab, var(--color-Bright-Yellow) 50%, transparent);
+        }
+      }
+    }
+  }
+  .hover\:bg-Bright-Yellow\/80 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: color-mix(in srgb, hsl(71, 73%, 54%) 80%, transparent);
+        @supports (color: color-mix(in lab, red, red)) {
+          background-color: color-mix(in oklab, var(--color-Bright-Yellow) 80%, transparent);
+        }
+      }
+    }
+  }
   .sm\:mt-\[163px\] {
     @media (width >= 40rem) {
       margin-top: 163px;
