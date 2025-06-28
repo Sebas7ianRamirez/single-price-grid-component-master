@@ -28,13 +28,13 @@ Durante el desarrollo, me enfoqué en mantener el código organizado y reutiliza
 -   Herramientas de desarrollo para probar y ajustar la responsividad.
 -   Diseño original y assets proporcionados por Frontend Mentor.
 
-![Diseño guía para la realización del proyecto](./assets/design/Diseño-final.png)
+![Diseño guía para la realización del proyecto](./assets/design/desktop-preview.jpg)
 
 ---
 
 ## Vista final del proyecto
 
-![Design preview for the Single price grid component coding challenge](./assets/design/desktop-preview.jpg)
+![Design preview for the Single price grid component coding challenge](./assets/design/Diseño-final.png)
 
 ---
 
