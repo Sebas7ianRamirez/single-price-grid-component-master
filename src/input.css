@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("../assets/fonts/Karla/Karla-VariableFont_wght.ttf")
+        format("woff2");
+}
+
+@theme {
+    --color-Cyan: hsl(179, 62%, 43%);
+    --color-Bright-Yellow: hsl(71, 73%, 54%);
+    --color-Light-Gray: hsl(204, 43%, 93%);
+    --color-Grayish-Blue: hsl(218, 22%, 67%);
+    --color-Cyan-Claro: #4abebd;
+
+    --font-Karla: Karla;
+}
